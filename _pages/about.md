@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'> </a> KAIST Graduate School of Culture Technology, Ph.D. student
 
 #profile:
 #  align: right
@@ -16,11 +16,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
+Hello! I am a Ph.D. student at the UVR Lab at KAIST's Graduate School of Culture Technology (GSCT), where I am advised by Prof. Woontack Woo. Additionally, I earned my M.S. degree from GSCT at KAIST, under Prof. Woontack Woo's guidance. Before joining UVR Lab, I studied Visual Communication Design at SNU.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My primary research interest lies in enhancing the ways users perceive and interact with digital information on AR smartglasses. To achieve this goal, my current research focuses on exploring hybrid interfaces that combine AR smartglasses with other mobile devices.
