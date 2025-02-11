@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'> </a> KAIST Graduate School of Culture Technology, Ph.D. student
+subtitle: <a href='#'></a> Ph.D. Student, KAIST Graduate School of Culture Technology
 
 #profile:
 #  align: right
@@ -18,6 +18,4 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Hello! I am a Ph.D. student at the UVR Lab at KAIST's Graduate School of Culture Technology (GSCT), where I am advised by Prof. Woontack Woo. Additionally, I earned my M.S. degree from GSCT at KAIST, under Prof. Woontack Woo's guidance. Before joining UVR Lab, I studied Visual Communication Design at SNU.
-
-My primary research interest lies in enhancing the ways users perceive and interact with digital information on AR smartglasses. To achieve this goal, my current research focuses on exploring hybrid interfaces that combine AR smartglasses with other mobile devices.
+Hello! I’m a Ph.D. student at the UVR Lab in KAIST's Graduate School of Culture Technology (GSCT), where I’m advised by Professor Woontack Woo. My research explores enhancing user perception and interaction with digital information on AR smartglasses, focusing on design of hybrid interfaces that integrates smartglasses with other mobile devices. I also hold an M.S. in Culture Technology from KAIST and a B.F.A. in Visual Communication Design from Seoul National University.
