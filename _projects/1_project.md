@@ -11,7 +11,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_conditions.png" title="study conditions" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_conditions.jpg" title="study conditions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -20,7 +20,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_subjective.png" title="subjective ratings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_subjective.jpg" title="subjective ratings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_behaviour.png" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_behaviour.jpg" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_guideline.png" title="design guidelines" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_guideline.jpg" title="design guidelines" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
