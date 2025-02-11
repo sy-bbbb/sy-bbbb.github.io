@@ -1,34 +1,25 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Integrating Smartphone Displays with OST HMDs
+description: Hybrid user interfaces that use smartphones as supplementary displays to enhance reading in AR
+img: assets/img/vr23_task.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+###Enhancing the Reading Experience on AR HMDs by Using Smartphones as Assistive Displays (VR '23)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The reading experience on current augmented reality (AR) head mounted displays (HMDs) is often impeded by the devices' low perceived resolution, translucency, and small field of view, especially in situations involving lengthy text. Although many researchers have proposed methods to resolve this issue, the inherent characteristics prevent these displays from delivering a readability on par with that of more traditional displays. As a solution, we explore the use of smartphones as assistive displays to AR HMDs. To validate the feasibility of our approach, we conducted a user study in which we compared a smartphone-assisted \textit{hybrid} interface against using the \textit{HMD only} for two different text lengths. The results demonstrate that the \textit{hybrid} interface yields a lower task load regardless of the text length, although it does not improve task performance. Furthermore, the \textit{hybrid} interface provides a better experience regarding user comfort, visual fatigue, and perceived readability. Based on these results, we claim that joining the spatial output capabilities of the HMD with the high-resolution display of the smartphone is a viable solution for improving the reading experience in AR.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vr23_conditions.png" title="study conditions" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vr23_task.png" title="study task" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vr23_rtlx.png" title="task load results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
