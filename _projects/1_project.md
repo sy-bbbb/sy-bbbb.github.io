@@ -2,7 +2,7 @@
 layout: page
 title: OST HMDs + Smartphones
 # description: Hybrid user interfaces that use smartphones as supplementary displays to enhance reading in AR
-img: assets/img/chi25_guideline.pdf
+img: assets/img/chi25_guideline.png
 importance: 1
 category: work
 ---
@@ -11,7 +11,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_conditions.pdf" title="study conditions" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_conditions.png" title="study conditions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -20,7 +20,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_subjective.pdf" title="subjective ratings" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_subjective.png" title="subjective ratings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_behaviour.pdf" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_behaviour.png" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_guideline.pdf" title="design guidelines" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_guideline.png" title="design guidelines" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,18 +70,6 @@ The reading experience on current augmented reality (AR) head mounted displays (
     On the left is the experimental task. Right image shows the results for perceived workload.
 </div>
 
-    
-<!-- <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div> -->
 
 
 
