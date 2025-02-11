@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OST HMDs + Smartphones
+title: Smartphone Integration for AR Reading
 # description: Hybrid user interfaces that use smartphones as supplementary displays to enhance reading in AR
 img: assets/img/chi25_guideline.png
 importance: 1
@@ -18,7 +18,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
     Study conditions
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/chi25_subjective.jpg" title="subjective ratings" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -34,7 +34,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 </div>
 <div class="caption">
     Behavioural patterns
-</div>
+</div> -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
