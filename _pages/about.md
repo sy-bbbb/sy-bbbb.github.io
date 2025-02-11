@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a> Ph.D. Student, KAIST Graduate School of Culture Technology
+subtitle: <a href='#'></a> Ph.D. Student, KAIST GSCT
 
 #profile:
 #  align: right
