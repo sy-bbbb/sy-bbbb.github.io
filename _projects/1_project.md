@@ -46,6 +46,7 @@ This research investigates the use of *hybrid user interfaces* to enhance text r
 </div>
 
 
+
 ### Enhancing the Reading Experience on AR HMDs by Using Smartphones as Assistive Displays (VR '23)
 The reading experience on current augmented reality (AR) head mounted displays (HMDs) is often impeded by the devices' low perceived resolution, translucency, and small field of view, especially in situations involving lengthy text. Although many researchers have proposed methods to resolve this issue, the inherent characteristics prevent these displays from delivering a readability on par with that of more traditional displays. As a solution, we explore the use of smartphones as assistive displays to AR HMDs. To validate the feasibility of our approach, we conducted a user study in which we compared a smartphone-assisted *hybrid* interface against using the *HMD only* for two different text lengths. The results demonstrate that the *hybrid* interface yields a lower task load regardless of the text length, although it does not improve task performance. Furthermore, the *hybrid* interface provides a better experience regarding user comfort, visual fatigue, and perceived readability. Based on these results, we claim that joining the spatial output capabilities of the HMD with the high-resolution display of the smartphone is a viable solution for improving the reading experience in AR.
 
