@@ -9,6 +9,12 @@ category: research
 
 This work explores the trade-offs of using smartphones as supplementary displays for reading on AR head-mounted displays
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chi25_guideline.png" title="design guideline" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ---
 
 <details><summary>Abstract</summary>
@@ -47,7 +53,7 @@ Our findings show that _hybrid user interfaces_ offer significant readability be
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_subjective.jpg" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chi25_subjective.jpg" title="subjective results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -57,7 +63,7 @@ However, as the distance between displays increases, the compensatory behaviors 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/chi25_behaviour.jpg" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div>  
 <br>
 
 ## Supplementary Materials
