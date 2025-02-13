@@ -191,7 +191,7 @@
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {%- endif %}
       {%- if entry.project %}
-      <a href="{{ entry.project | prepend: '/projects/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
+      <a target ="_self" href="{{ entry.project | prepend: '/projects/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
       {%- endif %}
       
     </div>
