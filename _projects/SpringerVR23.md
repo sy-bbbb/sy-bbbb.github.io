@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Effects of coordinate system and position of AR notification while walking (Springer VR ’23)
-# description: Hybrid user interfaces that use smartphones as supplementary displays to enhance reading in AR
 img: assets/img/springer23_condition.jpg
 importance: 3
 category: research
@@ -21,6 +20,7 @@ RQ1. How do the **coordinate system** and **position** of the notification affec
 RQ2. How do the **coordinate system** and **position** of the notification affect the users’ walking experience?  
 RQ3. What **design recommendations** can we draw from this, and what features should we consider for designing AR notifications?
 <br>
+
 ## Study Design
 
 #### Study Conditions
