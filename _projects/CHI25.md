@@ -1,67 +1,66 @@
 ---
 layout: page
-title: Smartphone Integration for AR Reading
+title: AReading with Smartphones: Understanding the Trade-offs between Enhanced Legibility and Display Switching Costs in Hybrid AR Interfaces (CHI '25)
 # description: Hybrid user interfaces that use smartphones as supplementary displays to enhance reading in AR
 img: assets/img/chi25_guideline.png
 importance: 1
-category: work
+category: research
 ---
-### AReading with Smartphones: Understanding the Trade-offs between Enhanced Legibility and Display Switching Costs in Hybrid AR Interfaces (CHI '25)
-This research investigates the use of *hybrid user interfaces* to enhance text readability in augmented reality (AR) by combining optical see-through head-mounted displays with smartphones. While this integration can improve information legibility, it may also introduce display switching side effects. The extent to which these side effects hinder user experience and when the benefits outweigh drawbacks remain unclear. To address this gap, we conducted an empirical study (N=24) to evaluate how hybrid user interfaces affect AR reading tasks across different content distances, which induce varying levels of display switching. Our findings show that *hybrid user interfaces* offer significant readability benefits compared to using the *HMD only*, reducing mental and physical demands when reading text linked to content at closer distances. However, as the distance between displays increases, the compensatory behaviors users adopt to manage increased switching costs negate these benefits, making *hybrid user interfaces* less effective. Based on these findings, we suggest (1) using smartphones as supplementary displays for text in reading-intensive tasks, (2) implementing adaptive display positioning to minimize switching overhead in such scenarios, and (3) adjusting the smartphone's role based on content distance for less intensive reading tasks. These insights provide guidance for optimizing smartphone integration in hybrid interfaces and enhancing AR systems for reading applications. 
+
+This work explores the trade-offs of using smartphones as supplementary displays for reading on AR head-mounted displays
+
+---
+
+<details><summary>Abstract</summary>
+    This research investigates the use of <b>hybrid user interfaces</b> to enhance text readability in augmented reality (AR) by combining optical see-through head-mounted displays with smartphones. While this integration can improve information legibility, it may also introduce display switching side effects. The extent to which these side effects hinder user experience and when the benefits outweigh drawbacks remain unclear. To address this gap, we conducted an empirical study (N=24) to evaluate how hybrid user interfaces affect AR reading tasks across different content distances, which induce varying levels of display switching. Our findings show that <i>hybrid user interfaces</i> offer significant readability benefits compared to using the <i>HMD only</i>, reducing mental and physical demands when reading text linked to content at closer distances. However, as the distance between displays increases, the compensatory behaviors users adopt to manage increased switching costs negate these benefits, making <i>hybrid user interfaces</i> less effective. Based on these findings, we suggest (1) using smartphones as supplementary displays for text in reading-intensive tasks, (2) implementing adaptive display positioning to minimize switching overhead in such scenarios, and (3) adjusting the smartphone's role based on content distance for less intensive reading tasks. These insights provide guidance for optimizing smartphone integration in hybrid interfaces and enhancing AR systems for reading applications. 
+</details>
+---
+
+## Research Questions
+
+RQ1. How does task performance differ between a _hybrid user interface_ and an _HMD-only_ setup across varying **virtual content distances**?  
+RQ2. How do perceived workload factors differ between a _hybrid user interface_ and an _HMD-only_ setup across varying **virtual content distances**?  
+RQ3. How do users’ viewing behaviors differ between a _hybrid user interface_ and an _HMD-only_ setup across varying **virtual content distances**?  
+<br>
+
+## Study Design
+
+#### Study Conditions
+
+A 2 × 4 within-subjects factorial design was employed, with **interface mode** (_HMD only_, _hybrid_) and **AR content distance** (_0.45 m_, _1 m_, _2 m_, _5 m_) as independent variables. The AR content distance levels were chosen to align with Edward T. Hall’s proxemic zones.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/chi25_conditions.jpg" title="study conditions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Study conditions
+
+#### Experimental Task
+
+An image-text comparison task was employed to evaluate the relationship between enhanced legibility and display switching costs associated with smartphone integration. Participants compared an image presented on the left side of the HMD with a corresponding text description, which appeared either on the right side of the HMD or on a smartphone, depending on the experimental condition. The task required participants to identify the number of incorrect text descriptions. _Task performance_, _perceived workload and fatigue_, and _viewing behavior_ were measured.
+<br>
+
+## Results
+
+Our findings show that _hybrid user interfaces_ offer significant readability benefits compared to using the _HMD only_, reducing mental and physical demands when reading text linked to content at closer distances.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chi25_subjective.jpg" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+
+However, as the distance between displays increases, the compensatory behaviors users adopt to manage increased switching costs negate these benefits, making _hybrid user interfaces_ less effective.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/chi25_behaviour.jpg" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Behavioural patterns
-</div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chi25_guideline.png" title="design guidelines" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Design guidelines for hybrid AR interfaces
-</div>
+## Supplementary Materials
+* [Experiment Slides](chi25-slides.pdf)
+* [Experiment Materials](chi25-materials.pdf)
 
-
-
-### Enhancing the Reading Experience on AR HMDs by Using Smartphones as Assistive Displays (VR '23)
-The reading experience on current augmented reality (AR) head mounted displays (HMDs) is often impeded by the devices' low perceived resolution, translucency, and small field of view, especially in situations involving lengthy text. Although many researchers have proposed methods to resolve this issue, the inherent characteristics prevent these displays from delivering a readability on par with that of more traditional displays. As a solution, we explore the use of smartphones as assistive displays to AR HMDs. To validate the feasibility of our approach, we conducted a user study in which we compared a smartphone-assisted *hybrid* interface against using the *HMD only* for two different text lengths. The results demonstrate that the *hybrid* interface yields a lower task load regardless of the text length, although it does not improve task performance. Furthermore, the *hybrid* interface provides a better experience regarding user comfort, visual fatigue, and perceived readability. Based on these results, we claim that joining the spatial output capabilities of the HMD with the high-resolution display of the smartphone is a viable solution for improving the reading experience in AR.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vr23_conditions.png" title="study conditions" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Study conditions
-</div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vr23_task.png" title="study task" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vr23_rtlx.png" title="results" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    On the left is the experimental task. Right image shows the results for perceived workload.
-</div>
-
-
-
-
+## Git Repository
+* https://github.com/kaist-uvr-lab/HybridInterfaceStudy
