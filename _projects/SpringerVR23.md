@@ -7,10 +7,11 @@ importance: 3
 category: work
 ---
 
-**This work investigates how to effectively place AR notifications while a user is walking**
+This work investigates how to effectively place AR notifications while a user is walking
+---
 
 <details>
-    <h2><summary>Abstract</summary></h2>
+    <summary><h2>Abstract</h2></summary>
     Augmented reality (AR) head-mounted displays (HMDs) allow users to easily receive notifications while participating other tasks by projecting information directly in their field of view. Although HMDs offer such benefits in displaying notifications, there is insufficient research on the effective placement of AR notifications when the user is walking. For this, we conducted two studies based on different types of AR information to identify how the users perceive and understand the AR notifications according to placement while walking. We compared two different coordinate systems (<i>display-fixed</i> and <i>body-fixed</i>) and three different positions (<i>top</i>, <i>right</i>, and <i>bottom</i>) for icon-type and text-type notifications. The results indicated that using a <i>display-fixed</i> coordinate system for icon-type notifications yields significantly higher noticeability and comprehension. In contrast, using a <i>body-fixed</i> coordinate system for text-type notifications significantly improved comprehension and walking performance. Regarding the position of notifications, the <i>bottom</i> position resulted in a significantly higher noticeability and comprehension for both icon- and text-type notifications compared to the *top*. Based on these results, we draw some recommendations for the future design of notifications in AR HMDs.
 </details>
 
@@ -33,9 +34,6 @@ We used a 2 × 3 within-subjects design with two independent variables: two coor
         {% include figure.html path="assets/img/springer23_condition.jpg" title="coordinate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Study conditions
-</div>
 
 #### Experimental Task
 
@@ -50,7 +48,7 @@ Participants walked a track while receiving AR notifications via headset. The ta
     </div>
 </div>
 <div class="caption">
-    Study task
+    The top image shows the walking path used in the study. The bottom image displays the stimuli: **icon-type** (left) and **text-type** (right).
 </div>
 
 ## Results
