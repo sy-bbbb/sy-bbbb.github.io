@@ -18,7 +18,7 @@ This work investigates how to effectively place AR notifications while a user is
 
 RQ1. How do the **coordinate system** and **position** of the notification affect the users’ notification experience?  
 RQ2. How do the **coordinate system** and **position** of the notification affect the users’ walking experience?  
-RQ3. What **design recommendations** can we draw from this, and what features should we consider for designing AR notifications?
+RQ3. What **design recommendations** can we draw from this, and what features should we consider for designing AR notifications?  
 <br>
 
 ## Study Design

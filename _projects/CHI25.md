@@ -66,4 +66,4 @@ However, as the distance between displays increases, the compensatory behaviors 
 <br>
 
 ## Git Repository
-* [https://github.com/kaist-uvr-lab/HybridInterfaceStudy] (https://github.com/kaist-uvr-lab/HybridInterfaceStudy)
+* [https://github.com/kaist-uvr-lab/HybridInterfaceStudy](https://github.com/kaist-uvr-lab/HybridInterfaceStudy)
