@@ -190,6 +190,9 @@
       {%- if entry.website %}
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {%- endif %}
+      {%- if entry.project %}
+      <a target= "_blank" href="{{ entry.project | prepend: '/projects/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
+      {%- endif %}
     </div>
     {% if site.badges %}
     <div class="badges">
