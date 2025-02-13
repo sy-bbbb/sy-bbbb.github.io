@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AReading with Smartphones: Understanding the Trade-offs between Enhanced Legibility and Display Switching Costs in Hybrid AR Interfaces (CHI '25)
+title: AReading with Smartphones:Understanding the Trade-offs between Enhanced Legibility and Display Switching Costs in Hybrid AR Interfaces (CHI '25)
 # description: Hybrid user interfaces that use smartphones as supplementary displays to enhance reading in AR
 img: assets/img/chi25_guideline.png
 importance: 1
