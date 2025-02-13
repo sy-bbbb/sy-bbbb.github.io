@@ -117,15 +117,17 @@
           <article>
             <p>This work investigates how to effectively place AR notifications while a user is walking</p>
 
-<details><summary><h2>Abstract</h2></summary>
+<details><summary>Abstract</summary>
     Augmented reality (AR) head-mounted displays (HMDs) allow users to easily receive notifications while participating other tasks by projecting information directly in their field of view. Although HMDs offer such benefits in displaying notifications, there is insufficient research on the effective placement of AR notifications when the user is walking. For this, we conducted two studies based on different types of AR information to identify how the users perceive and understand the AR notifications according to placement while walking. We compared two different coordinate systems (<i>display-fixed</i> and <i>body-fixed</i>) and three different positions (<i>top</i>, <i>right</i>, and <i>bottom</i>) for icon-type and text-type notifications. The results indicated that using a <i>display-fixed</i> coordinate system for icon-type notifications yields significantly higher noticeability and comprehension. In contrast, using a <i>body-fixed</i> coordinate system for text-type notifications significantly improved comprehension and walking performance. Regarding the position of notifications, the <i>bottom</i> position resulted in a significantly higher noticeability and comprehension for both icon- and text-type notifications compared to the *top*. Based on these results, we draw some recommendations for the future design of notifications in AR HMDs.
 </details>
 
+<hr>
+
 <h2 id="research-questions">Research Questions</h2>
 
-<p>RQ1. How do the coordinate system and position of the notification affect the users’ notification experience?<br>
-RQ2. How do the coordinate system and position of the notification affect the users’ walking experience?<br>
-RQ3. What design recommendations can we draw from this, and what features should we consider for designing AR notifications?</p>
+<p>RQ1. How do the <strong>coordinate system</strong> and <strong>position</strong> of the notification affect the users’ notification experience?<br>
+RQ2. How do the <strong>coordinate system</strong> and <strong>position</strong> of the notification affect the users’ walking experience?<br>
+RQ3. What <strong>design recommendations</strong> can we draw from this, and what features should we consider for designing AR notifications?</p>
 
 <h2 id="study-design">Study Design</h2>
 
@@ -133,73 +135,8 @@ RQ3. What design recommendations can we draw from this, and what features should
 
 <p>We used a 2 × 3 within-subjects design with two independent variables: two coordinate systems (<em>display-fixed</em> and <em>body-fixed</em>), and three positions (<em>top</em>, <em>right</em>, and <em>bottom</em>).</p>
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-    <source 
-        class="responsive-img-srcset"
-        media="(max-width: 480px)" 
-        srcset="/assets/img/springer23_condition2-480.webp"
-      />
-    <source 
-        class="responsive-img-srcset"
-        media="(max-width: 800px)" 
-        srcset="/assets/img/springer23_condition2-800.webp"
-      />
-    <source 
-        class="responsive-img-srcset"
-        media="(max-width: 1400px)" 
-        srcset="/assets/img/springer23_condition2-1400.webp"
-      />
-    
-
-    <!-- Fallback to the original file -->
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;img 
-  src="/assets/img/springer23_condition2.jpg"
-  class="img-fluid rounded z-depth-1"  
-  width="auto" 
-  height="auto" 
-   
-   
-   
-   
-   
-  title="position" 
-  
-  onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
-/&gt;
-</code></pre></div></div>
-
-<p>&lt;/picture&gt;</p>
-
-<p>&lt;/figure&gt;</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;figure&gt;
-</code></pre></div></div>
-
-<picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/springer23_condition-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/springer23_condition-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/springer23_condition-1400.webp"></source>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/springer23_condition.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="coordinate" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-<p>&lt;/figure&gt;</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/div&gt;
-</code></pre></div></div>
-<p>&lt;/div&gt; –&gt;</p>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
         <figure>
 
   <picture>
@@ -210,14 +147,12 @@ RQ3. What design recommendations can we draw from this, and what features should
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/springer23_condition2.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="position" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/springer23_condition2.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="coordinate" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
 </figure>
 
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
         <figure>
 
   <picture>
@@ -228,7 +163,7 @@ RQ3. What design recommendations can we draw from this, and what features should
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/springer23_condition.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="coordinate" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/springer23_condition.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="position" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -242,7 +177,7 @@ RQ3. What design recommendations can we draw from this, and what features should
 <p>Participants walked a track while receiving AR notifications via headset. The task was conducted with both <strong>icon-</strong> and <strong>text-</strong>based notifications, and <em>noticeability</em>, <em>comprehension</em>, <em>walking performance</em>, and <em>subjective ratings</em> were measured for each.</p>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         <figure>
 
   <picture>
@@ -260,7 +195,7 @@ RQ3. What design recommendations can we draw from this, and what features should
 </figure>
 
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         <figure>
 
   <picture>
@@ -280,7 +215,7 @@ RQ3. What design recommendations can we draw from this, and what features should
     </div>
 </div>
 <div class="caption">
-    The top image shows the walking path used in the study. The bottom image displays the stimuli: <b>icon-type</b> (left) and <b>text-type</b> (right).
+    The left image shows the walking path used in the study. The right image displays the stimuli: <b>icon-type</b> (a) and <b>text-type</b> (b).
 </div>
 
 <h2 id="results">Results</h2>
