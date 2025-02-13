@@ -43,7 +43,7 @@ A 2 × 4 within-subjects factorial design was employed, with **interface mode** 
 
 #### Experimental Task
 
-An image-text comparison task was employed to evaluate the relationship between enhanced legibility and display switching costs associated with smartphone integration. Participants compared an image presented on the left side of the HMD with a corresponding text description, which appeared either on the right side of the HMD or on a smartphone, depending on the experimental condition. The task required participants to identify the number of incorrect text descriptions. _Task performance_, _perceived workload and fatigue_, and _viewing behavior_ were measured.
+An image-text comparison task was employed to evaluate the relationship between enhanced legibility and display switching costs associated with smartphone integration. Participants compared an image presented on the left side of the HMD with a corresponding text description, which appeared either on the right side of the HMD or on a smartphone, depending on the experimental condition. The task required participants to identify the number of incorrect text descriptions. _Task performance_, _perceived workload and fatigue_, and _viewing behavior_ were measured.  
 <br>
 
 
@@ -65,6 +65,18 @@ However, as the distance between displays increases, the compensatory behaviors 
     </div>
 </div>  
 <br>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chi25_gazeDensity.jpg" title="behavioural patterns" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>  
+<br>
+<div class="caption">
+    Gaze density maps showing the duration participants focused on each AOI (left: image panel, right: text panel) for each study condition.
+</div>
+<br>
+
 
 ## Supplementary Materials
 * [Experiment Slides](/assets/pdf/chi25-slides.pdf)
